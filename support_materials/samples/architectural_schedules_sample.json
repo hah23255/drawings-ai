@@ -1,0 +1,57 @@
+{
+  "project": "African Union Commission (Building A) - Architectural Takeoff",
+  "takeoff_date": "2026-07-18",
+  "doors": [
+    {
+      "code": "D-1",
+      "width_mm": 1000,
+      "height_mm": 2100,
+      "material": "Solid Core Timber Veneer",
+      "count": 4,
+      "remarks": "Main office access doors"
+    },
+    {
+      "code": "D-4",
+      "width_mm": 850,
+      "height_mm": 2100,
+      "material": "Hollow Core Flush Panel",
+      "count": 8,
+      "remarks": "Standard partition doors"
+    },
+    {
+      "code": "D-7",
+      "width_mm": 700,
+      "height_mm": 2000,
+      "material": "Melamine Partition Panel",
+      "count": 3,
+      "remarks": "Restroom stall cubicle doors"
+    }
+  ],
+  "windows": [
+    {
+      "code": "W-1",
+      "width_mm": 1200,
+      "height_mm": 1500,
+      "material": "Double Glazed Aluminum Frame",
+      "count": 6,
+      "remarks": "Standard exterior window units"
+    },
+    {
+      "code": "W-5",
+      "width_mm": 2400,
+      "height_mm": 1800,
+      "material": "Double Glazed Tinted Aluminum",
+      "count": 3,
+      "remarks": "Lake side panoramic window facade"
+    }
+  ],
+  "concrete_slabs": [
+    {
+      "description": "Ground Floor Leveling Screed (Concrete, 50mm thickness)",
+      "area_m2": 40.0,
+      "volume_m3": 2.0,
+      "material": "32MPa Concrete Screed",
+      "remarks": "Director's Office floor preparation"
+    }
+  ]
+}

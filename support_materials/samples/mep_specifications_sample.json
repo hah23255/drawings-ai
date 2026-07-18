@@ -1,0 +1,25 @@
+{
+  "reference_textbook": "M06-034 - The MEP Design of Building Services",
+  "indexed_specifications": [
+    {
+      "system": "Mechanical Ventilation (HVAC)",
+      "element": "Galvanized Steel Rectangular Ductwork",
+      "standards_ref": "DW144 / SMACNA",
+      "sizing_rules_metric": "Velocity < 6.0 m/s for branches, < 8.5 m/s for mains",
+      "leakage_test_pressure": "Medium pressure Class B: 1000 Pa test pressure"
+    },
+    {
+      "system": "Electrical Containment",
+      "element": "Perforated Galvanized Steel Cable Tray",
+      "standards_ref": "BS EN 61537 / BS 7671",
+      "sizing_rules_metric": "Minimum 45% free space rule for ventilation",
+      "mounting_intervals_meters": "Span support not exceeding 1.5 meters"
+    },
+    {
+      "system": "Public Health Drainage",
+      "element": "uPVC Soil and Waste Pipework",
+      "standards_ref": "BS EN 1329 / BS EN 12056",
+      "gradient_rules": "1:40 gradient for 110mm soil stack connections"
+    }
+  ]
+}

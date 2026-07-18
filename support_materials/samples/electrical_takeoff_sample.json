@@ -1,0 +1,79 @@
+{
+  "project": "African Union Commission (Building A) - Upper RCP and Electrical Plan (Lake Side)",
+  "standard": "UK BS 7671 (IET Wiring Regulations), Metric Units",
+  "wastage_allowance": 0.05,
+  "overhead_and_profit_markup": 0.12,
+  "takeoff_date": "2026-07-18",
+  "items": [
+    {
+      "ref": "1.1",
+      "description": "Recessed LED Pot Light (6W, IP20, Dimmable, Interior)",
+      "unit": "units",
+      "design_qty": 12,
+      "tender_qty": 13,
+      "material_rate_gbp": 15.00,
+      "labor_rate_gbp": 12.00,
+      "remarks": "Standard ceiling recessed downlight"
+    },
+    {
+      "ref": "1.2",
+      "description": "Recessed LED Pot Light (6W, IP65 Waterproof, Wet Area)",
+      "unit": "units",
+      "design_qty": 4,
+      "tender_qty": 4,
+      "material_rate_gbp": 22.00,
+      "labor_rate_gbp": 15.00,
+      "remarks": "Balcony & Bathroom waterproof lighting"
+    },
+    {
+      "ref": "1.3",
+      "description": "Pendant Light Fixture (Decorative, Central)",
+      "unit": "units",
+      "design_qty": 2,
+      "tender_qty": 2,
+      "material_rate_gbp": 65.00,
+      "labor_rate_gbp": 25.00,
+      "remarks": "Master & Secondary Bedroom central light"
+    },
+    {
+      "ref": "2.1",
+      "description": "Wall Mounted Switch (1-Gang, 10A, Decora, standard height)",
+      "unit": "units",
+      "design_qty": 6,
+      "tender_qty": 6,
+      "material_rate_gbp": 4.50,
+      "labor_rate_gbp": 10.00,
+      "remarks": "AFF 42\" standard switches"
+    },
+    {
+      "ref": "3.1",
+      "description": "Wall Mounted Duplex Socket Outlet (13A, Twin, Decora)",
+      "unit": "units",
+      "design_qty": 14,
+      "tender_qty": 15,
+      "material_rate_gbp": 8.00,
+      "labor_rate_gbp": 12.00,
+      "remarks": "Standard domestic electrical ring main socket"
+    },
+    {
+      "ref": "4.1",
+      "description": "1.5 mm² Twin & Earth PVC Insulated Cable",
+      "unit": "meters",
+      "design_qty": 100,
+      "tender_qty": 105,
+      "material_rate_gbp": 0.80,
+      "labor_rate_gbp": 1.50,
+      "remarks": "Lighting circuits distribution"
+    },
+    {
+      "ref": "5.1",
+      "description": "Consumer Unit (8-Way, split RCD, including MCBs)",
+      "unit": "units",
+      "design_qty": 1,
+      "tender_qty": 1,
+      "material_rate_gbp": 220.00,
+      "labor_rate_gbp": 150.00,
+      "remarks": "Main electrical distribution board"
+    }
+  ]
+}
